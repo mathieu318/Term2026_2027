@@ -1,4 +1,4 @@
-### page3
+### page 3
 
 1. On pourrait s'attendre à voir :
 ```python
@@ -11,3 +11,16 @@
 3. Lors de l'import, le module `outil.py` est exécuté entièrement.
 
 4. Ecrire des fonctions dans un module permet surtout de partager du code et de rendre plus lisible le programme principal `main.py`
+
+
+### page 5
+
+date: nov. 03
+version: 1.0
+
+contenu de la variable __name__, '
+' je_suis_un_module
+contenu de la variable __doc__, '
+' None
+contenu de la variable __name__, '
+' __main__
