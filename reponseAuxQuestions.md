@@ -15,12 +15,12 @@
 
 ### page 5
 
+Voici mon premier module
+contenu de la variable __doc__, '
+' 
+auteur: Monsieur NICOLAS
 date: nov. 03
 version: 1.0
 
-contenu de la variable __name__, '
-' je_suis_un_module
-contenu de la variable __doc__, '
-' None
 contenu de la variable __name__, '
 ' __main__
