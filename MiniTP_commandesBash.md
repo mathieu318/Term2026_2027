@@ -39,41 +39,57 @@ cd /workspaces/Term2026_2027
 
 **Question 8.** Dans le dossier `Documents`, créer deux fichiers vides nommés `cours.txt` et `notes.txt`.
 
+
 **Question 9.** Afficher le contenu du dossier `Documents` pour vérifier que les deux fichiers ont bien été créés.
+
 
 **Question 10.** Copier le fichier `cours.txt` dans le dossier `Scripts`. Renommer ensuite cette copie en `programme.py`.
 
+
 **Question 11.** Déplacer le fichier `notes.txt` dans le dossier `Images`.
+
 
 ## Partie 3 – Manipuler le contenu des fichiers
 
+
 **Question 12.** À l'aide de la commande `echo`, écrire le texte suivant dans le fichier `cours.txt` :
+
 
 `Linux est un système d'exploitation.`
 
+
 Puis ajouter une deuxième ligne :
+
 
 `Le terminal permet de communiquer avec le système.`
 
+
 *Indication :* utiliser les opérateurs `>` et `>>`. Quelle est la différence entre ces deux opérateurs ?
+
 
 **Question 13.** Afficher le contenu du fichier `cours.txt` à l'aide de la commande `cat`.
 
+
 **Question 14.** Afficher le contenu du fichier `cours.txt` page par page à l'aide de la commande `less`. Quelle touche permet de quitter cet affichage ?
 
+
 **Question 15.** À l'aide de la commande `grep`, rechercher le mot `terminal` dans le fichier `cours.txt`.
+
 
 **Question 16.** Utiliser la commande `wc` pour compter :
 - le nombre de lignes du fichier ;
 - le nombre de mots ;
 - le nombre de caractères.
 
+
 ## Partie 4 – Utilisateur et système
+
 
 **Question 17.** Utiliser les commandes appropriées pour :
 - afficher le nom de l'utilisateur actuellement connecté ;
 - afficher ses identifiants et ses groupes ;
 - afficher le chemin de l'exécutable Python installé sur le système.
+
 
 **Question 18.** Afficher l'historique des dernières commandes saisies dans le terminal.
 
